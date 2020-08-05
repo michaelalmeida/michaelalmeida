@@ -1,7 +1,6 @@
 
-<div align="right">
- [LinkedIn](https://www.linkedin.com/in/michaelralmeida/) | [michaelralmeida@gmail.com](mailto:michaelralmeida@gmail.com)
-</div>
+
+[LinkedIn](https://www.linkedin.com/in/michaelralmeida/) | [michaelralmeida@gmail.com](mailto:michaelralmeida@gmail.com)
 
 ## Hi there 👋
 
