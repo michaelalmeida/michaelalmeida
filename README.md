@@ -1,5 +1,7 @@
 
-<p align="right">[LinkedIn](https://www.linkedin.com/in/michaelralmeida/) | [michaelralmeida@gmail.com](mailto:michaelralmeida@gmail.com)</p>
+<div align="right">
+ [LinkedIn](https://www.linkedin.com/in/michaelralmeida/) | [michaelralmeida@gmail.com](mailto:michaelralmeida@gmail.com)
+</div>
 
 ## Hi there 👋
 
@@ -8,4 +10,4 @@ My name is Michael and I'm from Brazil. Currently working as Frontend Developer 
 
 ## 🔭 I’m currently working on and  learning
 
- :iphone: React native for my new project [my-library](https://github.com/michaelalmeida/my-libraryhttp://)! 
+ :iphone: React native for my new project [my-library](https://github.com/michaelalmeida/my-library)! 
