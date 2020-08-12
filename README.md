@@ -1,6 +1,6 @@
 
 
-[LinkedIn](https://www.linkedin.com/in/michaelralmeida/) | [michaelralmeida@gmail.com](mailto:michaelralmeida@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/michaelralmeida/) | [michaelralmeida@gmail.com](mailto:michaelralmeida@gmail.com) | [Portfolio](https://michaelalmeida.github.io/) 
 
 ## Hi there 👋
 
