@@ -2,6 +2,6 @@
 
 [LinkedIn](https://www.linkedin.com/in/michaelralmeida/) | [michaelralmeida@gmail.com](mailto:michaelralmeida@gmail.com) | [Portfolio](http://michael.eti.br/) 
 
-## Hi there 👋
+## Hello 👋
 
-My name is Michael and I'm from Brazil. Currently working as Frontend Developer at [Venturus](https://www.venturus.org.br/en/) using **React + Redux,** ECMAScript 6+, Sass, Hooks, Syled-components and Axios. Besides, I also ❤️ those other awesome technologies: **Node.js** + Expres.js, **Typescript** and Jest+Enzyme.
+I'm Michael from Brazil :earth_americas: Currently working as Frontend Engineer at [iFood](https://www.ifood.com.br/), :pizza: the biggest Foodtech in Latin America, using **React, Redux,** ECMAScript 6+, Sass, Hooks, Syled-components and Axios. Besides, I also ❤️  other awesome technologies: **Node.js** + Expres.js, **Typescript** and Jest,React Testing Library and Enzyme.
