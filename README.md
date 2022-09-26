@@ -4,7 +4,7 @@
 
 ## Hello 👋
 
-I'm Michael, brazilian living in Köln, Germany 🇩🇪 Currently working as Frontend Engineer at [Fitogram](https://www.fitogram.pro/), :running: helping they to develop and maintain an amazing software for studio management, using **React, Redux, React Query, Context API,** ECMAScript 6+, Sass, Hooks, Syled-components and Axios. Besides, I also ❤️  other awesome technologies: **Node.js** + Expres.js, **Typescript** and Jest, React Testing Library and Enzyme.
+I'm Michael, brazilian living in Köln, Germany 🇩🇪 Currently working as Frontend Engineer at [Fitogram](https://www.fitogram.pro/), :running: helping they to develop and maintain an amazing software for studio management, using **React, Redux, React Query, Context API,** ECMAScript 6+, Sass, Hooks, Syled-components and Axios. Besides, I also ❤️  other awesome technologies: **Node.js** + Expres.js, **Typescript** and Jest and React Testing Library.
 
 Currently focused on software performance, code quality, and tests. 🚀
 
