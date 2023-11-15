@@ -8,4 +8,4 @@ I'm Michael, brazilian living in Köln, Germany 🇩🇪 Currently working as Fr
 
 Currently focused on software performance, code quality, and tests. 🚀
 
-You can find more about me visiting my [LinkedIn](https://www.linkedin.com/in/michaelralmeida/) profile. Check one of my hobbies here [in my trips application](http://michael.eti.br/) 
+You can find more about me visiting my [LinkedIn](https://www.linkedin.com/in/michaelralmeida/) profile. Check one of my hobbies here [in my trips application](http://my-trips-teal.vercel.app/) 
