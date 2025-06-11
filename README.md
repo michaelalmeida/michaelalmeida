@@ -1,7 +1,3 @@
-
-
-
-
 [LinkedIn](https://www.linkedin.com/in/michaelralmeida/) | [michaelralmeida@gmail.com](mailto:michaelralmeida@gmail.com) | [Portfolio](http://michael.eti.br/) 
 
 ## Hello 👋
@@ -16,7 +12,7 @@ You can find more about me visiting my [LinkedIn](https://www.linkedin.com/in/mi
 
 **viajei.blog** is not a public project due creative protection (we can say like that). 
 
-You can test by yourself creating an account here: https://app.viajei.blog/create
+You can test by yourself creating an account here: https://app.viajei.blog/register
 
 |React project  | Next.js project | Node.js project |
 |--|--|--|
