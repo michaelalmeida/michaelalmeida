@@ -1,11 +1,12 @@
 
 
 
+
 [LinkedIn](https://www.linkedin.com/in/michaelralmeida/) | [michaelralmeida@gmail.com](mailto:michaelralmeida@gmail.com) | [Portfolio](http://michael.eti.br/) 
 
 ## Hello 👋
 
-I'm Michael, brazilian living in Köln, Germany 🇩🇪 Currently working as Frontend Engineer, using **React, Redux, Context API, React Query,** ECMAScript 6+, Sass, Hooks, Next.js, Syled-components and React-query. Besides, I also ❤️  other awesome technologies: **Node.js** + Expres.js, **Typescript** and Jest and React Testing Library.
+I'm Michael, brazilian living in Köln, Germany 🇩🇪 Currently working as Frontend Engineer at [Fitogram](https://www.fitogram.pro/), :running: helping they to develop and maintain an amazing software for studio management, using **React, Redux, React Query, Context API,** ECMAScript 6+, Sass, Hooks, Syled-components and Axios. Besides, I also ❤️  other awesome technologies: **Node.js** + Expres.js, **Typescript** and Jest and React Testing Library.
 
 Currently focused on software performance, code quality, and tests. 🚀
 
@@ -13,7 +14,10 @@ You can find more about me visiting my [LinkedIn](https://www.linkedin.com/in/mi
 
 ## My latest and biggest project
 
-**viajei.blog** is not a public project due creative protection (we can say like that)
+**viajei.blog** is not a public project due creative protection (we can say like that). 
+
+You can test by yourself creating an account here: https://app.viajei.blog/create
+
 |React project  | Next.js project | Node.js project |
 |--|--|--|
 |https://app.viajei.blog  | https://www.viajei.blog/michael | Backend is hosted by Onrender |
@@ -30,3 +34,8 @@ You can find more about me visiting my [LinkedIn](https://www.linkedin.com/in/mi
 	- Using caching mechanism, SEO optimized, client and server components;
 - The Node.js project:
 	- Deal with the requests like image upload, payments;
+
+### Payment with Stripe
+![enter image description here](https://i.ibb.co/3Ymb0Zd5/payment-with-stripe.gif)
+### Image upload with Cloudinary (as a paid resource)
+![enter image description here](https://i.ibb.co/N29h11BL/image-upload.gif) 
