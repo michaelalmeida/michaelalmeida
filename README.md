@@ -25,6 +25,7 @@ You can test by yourself creating an account here: https://app.viajei.blog/regis
 	 - React query;
 	 - Rich text editor;
 	 - Auth system;
+ 	 - Multi language support (English and Portuguese);
 - The Next.js project:
 	- It shows everything the user creates (trips);
 	- Using caching mechanism, SEO optimized, client and server components;
